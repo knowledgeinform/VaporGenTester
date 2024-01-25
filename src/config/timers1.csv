@@ -1,0 +1,7 @@
+call,value,time,
+api/timers/2/Start-Pause,"",4
+api/valves/1/State,true,2
+api/valves/2/State,false,2
+api/MFCs/A/Set Point,10,3
+api/timers/1/Stop,"",60
+api/Controllers/0/Settings,"",60

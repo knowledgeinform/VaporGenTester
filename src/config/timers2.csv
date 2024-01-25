@@ -1,0 +1,5 @@
+call,value,time,
+api/timers/2/Stop,,5
+api/timers/1/Start-Pause,"",4
+api/valves/1/State,false,2
+api/valves/2/State,true,2

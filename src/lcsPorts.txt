@@ -1,0 +1,47 @@
+[
+  {
+    manufacturer: 'FTDI',
+    serialNumber: 'A907FYLG',
+    pnpId: 'usb-FTDI_FT232R_USB_UART_A907FYLG-if00-port0',
+    locationId: undefined,
+    vendorId: '0403',
+    productId: '6001',
+    path: '/dev/ttyUSB0' --> HCD A
+  },
+  {
+    manufacturer: 'FTDI',
+    serialNumber: 'AL02ZPOO',
+    pnpId: 'usb-FTDI_FT232R_USB_UART_AL02ZPOO-if00-port0',
+    locationId: undefined,
+    vendorId: '0403',
+    productId: '6001',
+    path: '/dev/ttyUSB1' --> HCD B
+  },
+  {
+    manufacturer: 'Prolific Technology Inc.',
+    serialNumber: undefined,
+    pnpId: 'usb-Prolific_Technology_Inc._USB-Serial_Controller-if00-port0',
+    locationId: undefined,
+    vendorId: '067b',
+    productId: '2303',
+    path: '/dev/ttyUSB3' --> Test Fixture MFCs
+  },
+  {
+    manufacturer: 'FTDI',
+    serialNumber: 'A603J5MY',
+    pnpId: 'usb-FTDI_FT232R_USB_UART_A603J5MY-if00-port0',
+    locationId: undefined,
+    vendorId: '0403',
+    productId: '6001',
+    path: '/dev/ttyUSB2'
+  },
+  {
+    manufacturer: undefined,
+    serialNumber: undefined,
+    pnpId: undefined,
+    locationId: undefined,
+    vendorId: undefined,
+    productId: undefined,
+    path: '/dev/ttyAMA0'
+  }
+]
